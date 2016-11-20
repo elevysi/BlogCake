@@ -1,0 +1,18 @@
+[10-Jan-2015 04:08:44] PHP Fatal error:  Unsupported or undefined Opauth strategy - assets in /home2/elevysic/public_html/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php on line 120
+[10-Jan-2015 04:08:44] PHP Fatal error:  Unsupported or undefined Opauth strategy - favicon in /home2/elevysic/public_html/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php on line 120
+[10-Jan-2015 04:30:35] PHP Fatal error:  Unsupported or undefined Opauth strategy - assets in /home2/elevysic/public_html/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php on line 120
+[11-Jan-2015 03:07:32] PHP Fatal error:  Call to undefined function  crypto_rand_secure() in /home2/elevysic/public_html/app/Controller/AppController.php on line 89
+[11-Jan-2015 03:08:54] PHP Fatal error:  Call to undefined function  crypto_rand_secure() in /home2/elevysic/public_html/app/Controller/AppController.php on line 89
+[11-Jan-2015 03:10:12] PHP Fatal error:  Call to undefined function  openssl_random_pseudo_bytes() in /home2/elevysic/public_html/app/Controller/AppController.php on line 77
+[11-Jan-2015 04:29:59] PHP Fatal error:  Call to a member function find() on a non-object in /home2/elevysic/public_html/app/Controller/PostsController.php on line 247
+[11-Jan-2015 04:30:22] PHP Fatal error:  Call to a member function find() on a non-object in /home2/elevysic/public_html/app/Controller/PostsController.php on line 247
+[11-Jan-2015 04:30:24] PHP Fatal error:  Call to a member function find() on a non-object in /home2/elevysic/public_html/app/Controller/PostsController.php on line 247
+[11-Jan-2015 04:40:35] PHP Fatal error:  Unsupported or undefined Opauth strategy - assets in /home2/elevysic/public_html/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php on line 120
+[11-Jan-2015 04:41:06] PHP Fatal error:  Unsupported or undefined Opauth strategy - assets in /home2/elevysic/public_html/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php on line 120
+[11-Jan-2015 04:48:37] PHP Fatal error:  Unsupported or undefined Opauth strategy - assets in /home2/elevysic/public_html/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php on line 120
+[11-Jan-2015 04:49:00] PHP Fatal error:  Unsupported or undefined Opauth strategy - assets in /home2/elevysic/public_html/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php on line 120
+[11-Jan-2015 04:50:07] PHP Fatal error:  Unsupported or undefined Opauth strategy - assets in /home2/elevysic/public_html/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php on line 120
+[11-Jan-2015 04:58:10] PHP Fatal error:  Unsupported or undefined Opauth strategy - assets in /home2/elevysic/public_html/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php on line 120
+[11-Jan-2015 04:58:21] PHP Fatal error:  Unsupported or undefined Opauth strategy - assets in /home2/elevysic/public_html/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php on line 120
+[11-Jan-2015 04:58:29] PHP Fatal error:  Unsupported or undefined Opauth strategy - assets in /home2/elevysic/public_html/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php on line 120
+[11-Jan-2015 05:03:25] PHP Fatal error:  Unsupported or undefined Opauth strategy - assets in /home2/elevysic/public_html/app/Plugin/Opauth/Vendor/Opauth/lib/Opauth/Opauth.php on line 120
