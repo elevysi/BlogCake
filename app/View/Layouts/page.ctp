@@ -3,7 +3,7 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 <head>
-    <title>Elvis</title>
+    <title>Elevysi</title>
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -59,7 +59,7 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="#intro">
-                    <span>E</span>lvis
+                    <span>E</span>levysi
                     <!-- <img src="assets/img/logo1.png" alt="Logo"> -->
                 </a>
             </div>
@@ -75,6 +75,10 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                     
                     <li class="page-scroll">
                     <a href="http://spring.elevysi.com">Blog Spring</a>
+                    </li>
+                    
+                    <li class="page-scroll">
+                    <a href="http://mean.elevysi.com">La Life - Mean</a>
                     </li>
 
                    
